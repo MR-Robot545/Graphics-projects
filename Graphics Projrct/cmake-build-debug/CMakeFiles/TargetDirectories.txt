@@ -1,0 +1,3 @@
+C:/Users/asdan/Desktop/graphics/Graphics_Projrct/Graphics Projrct/cmake-build-debug/CMakeFiles/Graphics_Projrct.dir
+C:/Users/asdan/Desktop/graphics/Graphics_Projrct/Graphics Projrct/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/asdan/Desktop/graphics/Graphics_Projrct/Graphics Projrct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

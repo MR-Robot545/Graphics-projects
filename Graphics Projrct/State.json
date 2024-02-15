@@ -1,0 +1,12 @@
+{
+    "1": {
+        "type": "Ellipse",
+        "algorithm": "Midpoint",
+        "parameters": "xc:134 yc:200 A:49 B:17 Color:0"
+    },
+    "2": {
+        "type": "Fill",
+        "algorithm": "Flood",
+        "parameters": "x:134 y:200 Cb:0 Cf:255"
+    }
+}

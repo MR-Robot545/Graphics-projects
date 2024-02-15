@@ -1,0 +1,12 @@
+{
+    "1": {
+        "type": "Circle",
+        "algorithm": "Midpoint",
+        "parameters": "xc:432 yc:327 r:93 Color:0"
+    },
+    "2": {
+        "type": "Fill",
+        "algorithm": "NR Flood",
+        "parameters": "x:432 y:327 CB:0 Cf:255"
+    }
+}
